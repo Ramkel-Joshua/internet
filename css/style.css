@@ -1,0 +1,31 @@
+body{
+/*    background-color: skyblue;*/
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+h1{
+    color: aqua;
+    font-size: 50px;
+    font-family:aariel;
+}
+p{
+    color: black;
+    font-size: 18px;
+    font-family: century;
+}
+h2{
+    color: dodgerblue;
+    font-size: 30px;
+    font-family:Elephant;
+}
+h3{
+    color: firebrick;
+    font-size: 20ps;
+    font-family: monospace;
+}
+img{
+    width: 350px;
+    height: 200px;
+}
